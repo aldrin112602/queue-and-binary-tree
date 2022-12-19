@@ -3,9 +3,9 @@
 ## Course Project
 ### Objective/s:
 At the end of this activity, you should be able to:
-•	Traverse the data using a linear and nonlinear data structure using C++.
-•	Demonstrate application of  a linear and nonlinear data structure 
-•	Simulate implementation of a linear and nonlinear data structure. 
+- Traverse the data using a linear and nonlinear data structure using C++.
+- Demonstrate application of  a linear and nonlinear data structure 
+- ulate implementation of a linear and nonlinear data structure. 
 
 What to Prepare for the Activity:
 -	Computer or Laptop
